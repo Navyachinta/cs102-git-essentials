@@ -1,0 +1,5 @@
+git add is used to add files to the repositories.
+git status helps us with the status of the respository clones.
+git clone is used to clone the repository .
+git commit is used to add commits to the repository.
+git pull is used to pull the changes from terminal to repository.
